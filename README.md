@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lciuffardi
+- 👀 I’m interested in expanding my knowledge in emerging technologies
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: https://www.linkedin.com/in/lciuffardi/
